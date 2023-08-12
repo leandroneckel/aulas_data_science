@@ -1,0 +1,16 @@
+codigo_pedido - número da comanda
+colaborador - atendente
+tipo - mesa, balcao ou caixa
+data_abertura - data e hora da abertura da comanda
+data_fechamento - data e hora do fechamento da comando
+data_inclusao_item - data e hora da inclusão de um novo item na comanda
+quantidade - quantidade incluída na comanda do item codigo_pedido
+preco_unitario - preco de venda de um item
+preco_total - preco do total de itens pedidos (quantidade * preco_unitario)
+preco_custo - custo do item
+nome_produto - nome do nome_produto
+categoria - bebida, item de cozinha, item de balcão, etc
+numero_mesa - número da mesa
+forma_pagamento - forma de forma_pagamento
+valor_final - valor total final da comanda
+status_pedido - status do pedido
