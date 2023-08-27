@@ -51,4 +51,4 @@ Em grupos de até 6 pessoas, desenvolver um jupyter notebook que faça exploraç
 
 É importante que sejam apresentadas análises descritivas e gráficas de ambos de todos os tipos de variáveis (categórica, numéricas, binárias) que houverem na base de dados.
 
-No início do Jupyter Notebook é necessário colocar o nome e número de matrícula dos componentes do grupo e a entrega do jupyter notebook finalizado deverá ser feita por meio do AVA até 24/08 às 18:00.
+No início do Jupyter Notebook é necessário colocar o nome e número de matrícula dos componentes do grupo e a entrega do jupyter notebook finalizado deverá ser feita por meio do AVA até a data e hora definidas para postagem no AVA
