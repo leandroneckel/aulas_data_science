@@ -50,3 +50,9 @@ Ir em "Python environments"
 Neste ponto o VSCode já deve ter localizado o novo kernel a partir do venv.
 
 Selecionar o kernel a partir do venv e rodar o código
+
+Para rodar o executável .py, no powershell, com o venv ativado digitar
+
+```powershell
+>>> python dashboard_analise.py
+```
