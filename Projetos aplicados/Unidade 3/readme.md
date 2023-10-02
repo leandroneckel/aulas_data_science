@@ -77,3 +77,5 @@ Lembre-se de selecionar o kernel criado antes de executar a primeira célula de 
 Se, ao longo do projeto, outras bibs forem necessárias, instale utilizando ```pip install (...)``` e não esqueça de rodar também o ```pip freeze > requirements.txt``` após isto.
 
 Antes da entrega, lembrar de rodar o ```pip freeze > requirements.txt``` para anexar o arquivo com todas as dependencias no ```.rar``` a ser publicado
+
+Obs.: Para a entrega, não incluir no arquivo compactado a pasta ```venv```
