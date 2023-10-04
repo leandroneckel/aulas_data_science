@@ -1,0 +1,1 @@
+[Dataset original e mais infos](https://archive.ics.uci.edu/dataset/551/gas+turbine+co+and+nox+emission+data+set)
