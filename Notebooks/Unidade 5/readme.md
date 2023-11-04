@@ -23,3 +23,26 @@ Os atributos são:
 * Matiz (Hue)
 * OD280/OD315 de vinhos diluídos
 * Proline
+
+# Groceries dataset
+
+Fonte: [Kaggle](https://www.kaggle.com/datasets/heeraldedhia/groceries-dataset)
+
+O conjunto de dados possui 38765 linhas de pedidos de compra de pessoas em supermercados. Esses pedidos podem ser analisados e regras de associação podem ser geradas usando Análise de Cesta de Mercado por algoritmos como o Algoritmo Apriori.
+
+# Market Basket Analysis
+
+Fonte [Kaggle](https://www.kaggle.com/datasets/aslanahmedov/market-basket-analysis)
+
+* BillNo: número de 6 dígitos atribuído a cada transação. Nominal.
+* Itemname: Nome do produto. Nominal.
+* Quantity: As quantidades de cada produto por transação. Numérico.
+* Date: O dia e a hora em que cada transação foi gerada. Numérico.
+* Price: Preço do produto. Numérico.
+* CustomerID: número de 5 dígitos atribuído a cada cliente. Nominal.
+* Country: Nome do país onde cada cliente reside. Nominal.
+
+# Arquivos .ipynb nessa pasta
+
+* O arquivo ```clusterizacao.ipynb``` explora algoritmos de clusterizaçao utilizando os dados sobre vinho como substrato
+* O arquivo ```regras_associacao.ipynb``` explora o conceito de mineração de regras de associação utilizando o algoritmo Apriori sobre os dados de ```Groceries_Dataset.csv``` e também faz uma análize de clusterização sobre os resultados de uma análise RFM sobre os dados de ```Assignment-1_Data.xlsx```
